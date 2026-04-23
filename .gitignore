@@ -1,0 +1,5 @@
+# Private images
+*.qcow2
+
+# Test files
+*.txt
